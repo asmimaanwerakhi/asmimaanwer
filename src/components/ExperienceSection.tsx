@@ -15,7 +15,7 @@ const journey: RouteStop[] = [
   {
     id: '01',
     year: '2023 - PRESENT',
-    title: 'BSC IN COMPUTER SCIENCE & ENGINEERING',
+    title: 'BSC IN COMPUTING & INFORMATION SYSTEM ',
     organization: 'DAFFODIL INTERNATIONAL UNIVERSITY',
     description:
       'Pursuing a Bachelor of Science in Computer Science & Engineering, with a focus on programming fundamentals, data structures, algorithms, and software development.',
