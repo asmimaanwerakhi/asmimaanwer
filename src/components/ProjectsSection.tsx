@@ -21,7 +21,7 @@ const projects: Project[] = [
     category: 'CAMPUS E-COMMERCE PLATFORM',
     description:
       'A campus-focused e-commerce website for discovering products, managing a shopping cart, and placing orders through a streamlined shopping experience.',
-    githubUrl: 'https://github.com/your-username/CampusCart',
+    githubUrl: 'https://github.com/asmimaanwer/CampusCart',
     liveUrl: 'https://campuscart.example.com',
     image: 'https://placehold.co/1200x600?text=CampusCart',
     tech: ['React', 'TypeScript', 'Node.js', 'Express.js', 'MySQL', 'Tailwind CSS'],
@@ -33,13 +33,13 @@ const projects: Project[] = [
   },
   {
     number: '02',
-    title: 'Talkora',
+    title: 'Nexora',
     category: 'REAL-TIME COMMUNICATION PLATFORM',
     description:
       'A communication platform for teams and communities, bringing conversations, direct messaging, and group collaboration together in one place.',
-    githubUrl: 'https://github.com/your-username/Talkora',
-    liveUrl: 'https://talkora.example.com',
-    image: 'https://placehold.co/1200x600?text=Talkora',
+    githubUrl: 'https://github.com/asmimaanwer/Nexora',
+    liveUrl: 'https://nexora.example.com',
+    image: 'https://placehold.co/1200x600?text=Nexora',
     tech: ['React', 'TypeScript', 'Node.js', 'Express.js', 'Socket.IO', 'MongoDB'],
     metrics: [
       { label: 'PLATFORM', value: 'Team Communication' },
@@ -53,7 +53,7 @@ const projects: Project[] = [
     category: 'BOUTIQUE RESTAURANT WEBSITE',
     description:
       'An elegant restaurant website featuring a curated menu, restaurant information, and a polished experience for discovering the bistro and planning a visit.',
-    githubUrl: 'https://github.com/your-username/Maison-Bistro',
+    githubUrl: 'https://github.com/asmimaanwer/maisonbistro',
     liveUrl: 'https://maison-bistro.example.com',
     image: 'https://placehold.co/1200x600?text=Maison+Bistro',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
@@ -69,7 +69,7 @@ const projects: Project[] = [
     category: 'CREATIVE DIGITAL AGENCY',
     description:
       'A modern agency website presenting creative services, selected work, and a clear contact experience for prospective clients and collaborators.',
-    githubUrl: 'https://github.com/your-username/Agency-Website',
+    githubUrl: 'https://github.com/asmimaanwer/agency-website',
     liveUrl: 'https://agency-website.example.com',
     image: 'https://placehold.co/1200x600?text=Agency+Website',
     tech: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
